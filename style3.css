@@ -1,0 +1,48 @@
+h1 {float: center;
+  font-style: normal ;
+    text-align: center;
+    text-decoration: none;
+    color: black;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cornflowerblue;
+    border: 2px solid;
+    color: black;
+    
+
+
+
+}
+
+li{ float: left;}
+
+
+li a{
+    display: block;
+    padding: 20px 40px;
+    text-decoration: none;
+    color: black;
+    
+    
+}
+
+li {text-align: left;
+    
+
+}
+  
+  li a.active {
+    background-color: silver;
+    color: white;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #555;
+    color: cornflowerblue
+  }
+
+  

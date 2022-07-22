@@ -1,0 +1,50 @@
+.Box1 { 
+    
+    display: inline-table;
+    border:5px outset #0ABAB5;
+    height: 100px;
+    width: 100px;
+    background-color: #000;
+    text-align: center;
+    color: #fff;
+   margin: 10px
+}
+
+.Box2 {
+
+    display: inline-table; 
+    border:5px outset #0ABAB5;
+    height: 100px;
+    width: 100px;
+    background-color: #FF0000;
+    text-align: center;
+    color: #fff;
+   
+    margin: 10px
+}    
+
+.Box3 {
+    
+    display: inline-table; 
+    border:5px outset #0ABAB5;
+    height: 100px;
+    width: 100px;
+    background-color: #800080;
+    text-align: center;
+    color: #fff;
+    
+    margin: 10px
+}
+
+.Box4 { 
+    
+    display: inline-table; 
+    border:5px outset #0ABAB5;
+    height: 100px;
+    width: 100px;
+    background-color: #298000;
+    text-align: center;
+    color: #fff;
+    margin: 10px
+    
+}    
