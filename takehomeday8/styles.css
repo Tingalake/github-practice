@@ -1,0 +1,21 @@
+.column {
+float: left;
+width: 25%;
+padding: 10px;
+background-color: aqua;
+
+}
+
+.column2 {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    background-color: aquamarine;
+}
+
+.column3 {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    background-color: azure;
+}
